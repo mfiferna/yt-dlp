@@ -1183,7 +1183,10 @@
  - **RCTIPlusTV**
  - **RDS**: RDS.ca (**Currently broken**)
  - **RedBull**
+ - **RedBullChannel**
  - **RedBullEmbed**
+ - **RedBullEvent**
+ - **RedBullShow**
  - **RedBullTV**
  - **RedBullTVRrnContent**
  - **redcdnlivx**
@@ -1495,7 +1498,7 @@
  - **TubeTuGraz**: [*tubetugraz*](## "netrc machine") tube.tugraz.at
  - **TubeTuGrazSeries**: [*tubetugraz*](## "netrc machine")
  - **TubiTv**: [*tubitv*](## "netrc machine")
- - **TubiTvShow**
+ - **TubiTvShow**: (**Currently broken**)
  - **Tumblr**: [*tumblr*](## "netrc machine")
  - **TuneInPodcast**
  - **TuneInPodcastEpisode**
